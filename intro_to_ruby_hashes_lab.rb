@@ -3,7 +3,7 @@ instatiating = {}
 end
 
 def actor
-{:name = "Dwayne The Rock Johnson"}
+{:name = ["Dwayne The Rock Johnson"]}
 end
 
 def monopoly
