@@ -1,5 +1,5 @@
 def new_hash
-
+instatiating => []
 end
 
 def actor
